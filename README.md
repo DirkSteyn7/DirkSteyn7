@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data stuff
 - 🌱 I’m currently learning Azure & DBT
 - 💞️ I’m looking to collaborate on any data project
-- 📫 How to reach me 
+- 📫 How to reach me: don't
 - 😄 Pronouns: Don't worry about it
 - ⚡ Fun fact: Best trip was a 5000km roadtrip over 2 weeks in Africa
 
